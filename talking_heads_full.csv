@@ -1,0 +1,344 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Big Country (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,318641,15,0.644,0.673,0.644,0.414,0.471,0.317,-14.489,0.0607,114.837,4
+1,Found a Job (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,308218,13,0.722,0.608,0.722,0.513,0.00846,0.986,-15.242,0.098,121.473,4
+2,"New Feeling, Pulled Up (Live) - Remastered","Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,429087,12,0.613,0.463,0.613,0.515,0.00581,0.951,-13.815,0.0653,132.892,4
+3,Psycho Killer (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,412212,13,0.47,0.36,0.47,0.65,0.238,0.859,-13.755,0.167,123.577,4
+4,Take Me to the River (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,344607,12,0.616,0.594,0.616,0.287,0.0833,0.833,-15.279,0.0716,97.429,4
+5,No Compassion (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,295523,10,0.556,0.419,0.556,0.538,0.022,0.813,-16.203,0.0691,129.629,4
+6,Warning Sign (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,270524,9,0.702,0.364,0.702,0.476,0.138,0.719,-16.223,0.0466,129.657,4
+7,The Book I Read (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,322298,9,0.484,0.583,0.484,0.558,0.39,0.716,-12.759,0.0511,127.903,4
+8,Stay Hungry (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,187271,9,0.538,0.399,0.538,0.522,0.095,0.727,-14.513,0.0384,129.349,4
+9,Artists Only (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,309968,9,0.506,0.309,0.506,0.541,0.18,0.699,-15.556,0.041,132.134,4
+10,The Girls Want To Be With The Girls (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,232960,8,0.721,0.44,0.721,0.604,0.437,0.861,-15.469,0.0458,131.6,4
+11,The Good Thing (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,190641,8,0.74,0.631,0.74,0.496,0.00441,0.697,-13.951,0.057,124.782,4
+12,"Love, Buildings on Fire (Live) - Remastered","Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,213786,8,0.59,0.475,0.59,0.613,0.00248,0.984,-14.675,0.306,126.111,4
+13,Electricity (Live) - Remastered,"Don't Feel Like Talking (The Boarding House, San Francisco '78 KSAN Broadcast Remastered)",Talking Heads,2020-08-26,213106,8,0.529,0.167,0.529,0.501,0.00422,0.914,-16.419,0.0396,102.411,4
+14,Sugar on My Tongue - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,154893,28,0.614,0.175,0.614,0.776,0.000213,0.0949,-9.88,0.0514,127.671,4
+15,Love → Building on Fire - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,177840,26,0.723,0.0765,0.723,0.656,0.0,0.132,-6.676,0.0515,129.526,4
+16,I Wish You Wouldn't Say That - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,156626,24,0.692,0.159,0.692,0.563,0.000107,0.383,-9.764,0.0353,129.727,4
+17,Don't Worry About the Government - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,179853,25,0.853,0.0194,0.853,0.516,1.32e-06,0.176,-10.849,0.0365,120.719,4
+18,"Uh-Oh, Love Comes to Town - Alternate Version; 2003 Remaster",Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,174040,25,0.704,0.705,0.704,0.511,0.0,0.343,-7.325,0.0264,99.25,4
+19,New Feeling - Alternate Version; 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,182000,24,0.712,0.212,0.712,0.731,0.000669,0.106,-8.052,0.034,132.901,4
+20,Pulled Up - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,269133,24,0.686,0.112,0.686,0.747,8.7e-06,0.245,-8.017,0.0424,140.171,4
+21,Psycho Killer - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,259733,27,0.717,0.0664,0.717,0.517,0.00416,0.133,-8.139,0.0571,123.097,4
+22,Warning Sign - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,233906,22,0.67,0.0842,0.67,0.741,0.000155,0.213,-7.69,0.0596,128.935,4
+23,Artists Only - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,214760,22,0.411,0.0174,0.411,0.579,0.0245,0.0891,-9.93,0.0277,132.068,4
+24,Tentative Decisions - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,185906,21,0.751,0.0607,0.751,0.545,7.08e-06,0.0783,-10.025,0.0519,120.025,4
+25,No Compassion - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,288200,21,0.557,0.168,0.557,0.644,0.000831,0.233,-8.006,0.0443,130.667,4
+26,Stay Hungry - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,158426,21,0.656,0.304,0.656,0.739,0.447,0.128,-9.487,0.0315,125.039,4
+27,I'm Not in Love - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,273426,21,0.513,0.00376,0.513,0.687,0.00329,0.0607,-10.154,0.177,135.106,4
+28,The Book I Read - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,248333,21,0.613,0.107,0.613,0.662,2.7e-06,0.168,-7.206,0.0372,125.202,4
+29,Thank You for Sending Me an Angel - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,131333,21,0.562,0.0483,0.562,0.844,0.00869,0.128,-6.236,0.0411,138.258,4
+30,Found a Job - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,300160,20,0.699,0.221,0.699,0.815,0.000288,0.179,-6.802,0.0304,121.876,4
+31,A Clean Break - Live; 2003 Remaster [2003 Remaster],Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,294960,21,0.786,0.0748,0.786,0.788,0.000874,0.609,-6.522,0.0383,130.649,4
+32,Take Me to the River - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,301000,25,0.651,0.245,0.651,0.446,0.0104,0.058,-9.571,0.0268,99.896,4
+33,The Big Country - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,333000,21,0.724,0.137,0.724,0.469,0.00112,0.0945,-11.167,0.0324,111.2,4
+34,Heaven - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,241093,21,0.583,0.08,0.583,0.661,0.14,0.25,-6.303,0.0243,107.124,4
+35,I Zimbra - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,187360,20,0.663,0.0753,0.663,0.728,0.255,0.331,-10.306,0.0337,113.901,4
+36,Cities - Alternate Version; 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,326333,20,0.609,0.0514,0.609,0.834,2.47e-06,0.889,-8.473,0.0457,127.329,4
+37,Life During Wartime - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,221973,26,0.804,0.0823,0.804,0.934,0.159,0.0592,-7.052,0.036,132.947,4
+38,Air - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,212506,18,0.511,0.051,0.511,0.673,0.00193,0.0845,-5.917,0.032,120.558,4
+39,Memories Can't Wait - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,210600,18,0.233,0.0167,0.233,0.712,0.362,0.368,-5.688,0.034,182.195,4
+40,Drugs - Alternate Version; 2003 Remaster [2003 Remaster],Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,213026,17,0.527,0.114,0.527,0.576,0.0253,0.236,-9.175,0.0468,92.954,4
+41,Once in a Lifetime - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,260133,26,0.645,0.158,0.645,0.916,0.128,0.601,-6.277,0.0576,117.466,4
+42,Born Under Punches (The Heat Goes On) - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,346733,20,0.736,0.211,0.736,0.86,0.306,0.221,-7.238,0.0937,112.916,4
+43,Listening Wind - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,281466,17,0.723,0.512,0.723,0.796,0.666,0.392,-8.263,0.0765,144.14,4
+44,Houses in Motion - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,270666,18,0.74,0.678,0.74,0.773,0.654,0.155,-10.404,0.0639,101.809,4
+45,Crosseyed and Painless - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,285493,20,0.71,0.136,0.71,0.808,0.55,0.0908,-7.239,0.0339,135.524,4
+46,Burning Down the House - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,242533,23,0.769,0.00199,0.769,0.869,0.00553,0.0617,-11.323,0.0516,103.253,4
+47,Making Flippy Floppy - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,354200,18,0.819,0.0671,0.819,0.881,0.0522,0.102,-6.772,0.033,122.961,4
+48,Girlfriend Is Better - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,345493,22,0.863,0.0847,0.863,0.735,0.000619,0.0286,-7.394,0.0913,118.644,4
+49,Slippery People - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,305426,21,0.889,0.00917,0.889,0.626,0.00128,0.0204,-9.629,0.0767,104.213,4
+50,Swamp - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,310693,20,0.907,0.068,0.907,0.556,0.0593,0.158,-9.845,0.073,116.66,4
+51,This Must Be the Place (Naive Melody) - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,296133,24,0.942,0.27,0.942,0.588,0.102,0.0288,-11.771,0.0343,114.652,4
+52,And She Was - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,217800,25,0.695,0.00509,0.695,0.849,0.0228,0.143,-5.454,0.0297,126.476,4
+53,Stay up Late - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,222800,21,0.601,0.00686,0.601,0.687,0.000391,0.0343,-5.779,0.0527,111.464,4
+54,Creatures of Love - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,254093,16,0.639,0.2,0.639,0.798,0.000727,0.238,-5.469,0.0252,137.411,4
+55,The Lady Don't Mind - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,244640,19,0.747,0.264,0.747,0.872,0.0685,0.079,-6.027,0.0308,127.998,4
+56,Road to Nowhere - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,259026,23,0.651,0.0335,0.651,0.81,1.46e-05,0.125,-4.888,0.0326,110.357,4
+57,Wild Wild Life - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,219773,24,0.647,0.0186,0.647,0.889,0.0,0.375,-4.869,0.0302,137.41,4
+58,Love for Sale - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,270293,16,0.652,0.000741,0.652,0.899,2.45e-06,0.0961,-5.173,0.0532,136.538,4
+59,People Like Us - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,268040,17,0.576,0.231,0.576,0.737,1.76e-05,0.0687,-4.854,0.0302,120.197,4
+60,Puzzlin' Evidence - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,322640,16,0.532,0.0611,0.532,0.978,1.9e-05,0.241,-5.547,0.0574,154.335,4
+61,City of Dreams - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,306826,16,0.601,0.038,0.601,0.63,0.00748,0.176,-6.765,0.0236,96.613,4
+62,Blind - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,298960,15,0.782,0.491,0.782,0.891,0.00336,0.206,-5.469,0.032,119.162,4
+63,Mr. Jones - 2003 Remaster,Once in a Lifetime: The Talking Heads Box (2003 Remaster),Talking Heads,2003-11-10,260000,17,0.761,0.342,0.761,0.83,3.63e-06,0.019,-5.728,0.0808,106.076,4
+64,Blind,Naked,Talking Heads,1988-03-15,300133,34,0.787,0.494,0.787,0.888,0.00311,0.204,-5.494,0.0325,119.156,4
+65,Mr. Jones,Naked,Talking Heads,1988-03-15,260040,34,0.762,0.326,0.762,0.832,5.69e-06,0.0222,-5.744,0.0784,106.089,4
+66,Totally Nude,Naked,Talking Heads,1988-03-15,251413,30,0.702,0.0231,0.702,0.896,0.00854,0.282,-5.593,0.0283,129.482,4
+67,Ruby Dear,Naked,Talking Heads,1988-03-15,230493,27,0.653,0.0113,0.653,0.884,0.000851,0.0818,-6.336,0.0446,108.766,4
+68,(Nothing But) Flowers,Naked,Talking Heads,1988-03-15,333000,45,0.603,0.0628,0.603,0.848,0.000133,0.211,-5.364,0.0423,120.764,4
+69,Democratic Circus,Naked,Talking Heads,1988-03-15,304346,27,0.609,0.526,0.609,0.349,0.025,0.12,-10.113,0.0297,114.261,4
+70,Facts of Life,Naked,Talking Heads,1988-03-15,388560,26,0.689,0.0369,0.689,0.661,0.00885,0.301,-7.843,0.0249,128.537,4
+71,Mommy Daddy You and I,Naked,Talking Heads,1988-03-15,238266,25,0.76,0.5,0.76,0.627,0.00354,0.158,-8.18,0.0329,106.242,4
+72,Big Daddy,Naked,Talking Heads,1988-03-15,338293,24,0.733,0.265,0.733,0.714,0.000229,0.149,-6.191,0.0284,120.054,4
+73,Bill,Naked,Talking Heads,1988-03-15,202666,23,0.76,0.264,0.76,0.695,0.00735,0.39,-7.896,0.026,98.485,4
+74,Cool Water,Naked,Talking Heads,1988-03-15,322853,24,0.508,0.648,0.508,0.726,0.00295,0.118,-6.722,0.0288,106.149,4
+75,Sax and Violins - 2005 Remaster,Naked,Talking Heads,1988-03-15,317253,29,0.687,0.155,0.687,0.691,0.000138,0.0637,-7.213,0.0477,112.568,4
+76,Blind - 2005 Remaster,Naked,Talking Heads,1988-03-15,299813,30,0.785,0.463,0.785,0.883,0.0061,0.169,-5.519,0.0324,119.184,4
+77,Mr. Jones - 2005 Remaster,Naked,Talking Heads,1988-03-15,260040,34,0.76,0.33,0.76,0.829,1.07e-05,0.0235,-5.803,0.0919,106.094,4
+78,Totally Nude - 2005 Remaster,Naked,Talking Heads,1988-03-15,251400,29,0.701,0.0219,0.701,0.897,0.0053,0.328,-5.598,0.0282,129.475,4
+79,Ruby Dear - 2005 Remaster,Naked,Talking Heads,1988-03-15,230493,22,0.656,0.011,0.656,0.879,0.00101,0.078,-6.334,0.0438,108.728,4
+80,(Nothing But) Flowers - 2005 Remaster,Naked,Talking Heads,1988-03-15,332093,48,0.604,0.0507,0.604,0.842,0.000193,0.218,-5.314,0.0407,120.769,4
+81,The Democratic Circus - 2005 Remaster,Naked,Talking Heads,1988-03-15,303293,23,0.594,0.536,0.594,0.35,0.0268,0.131,-10.088,0.0295,114.195,4
+82,The Facts of Life - 2005 Remaster,Naked,Talking Heads,1988-03-15,387106,21,0.689,0.0361,0.689,0.663,0.00569,0.278,-7.83,0.025,128.595,4
+83,Mommy Daddy You and I - 2005 Remaster,Naked,Talking Heads,1988-03-15,238266,20,0.762,0.513,0.762,0.619,0.00432,0.123,-8.208,0.0346,106.231,4
+84,Big Daddy - 2005 Remaster,Naked,Talking Heads,1988-03-15,338293,19,0.733,0.271,0.733,0.702,0.000147,0.134,-6.156,0.0281,120.052,4
+85,Bill - 2005 Remaster,Naked,Talking Heads,1988-03-15,202666,18,0.761,0.25,0.761,0.706,0.0101,0.392,-7.931,0.0259,98.483,4
+86,Cool Water - 2005 Remaster,Naked,Talking Heads,1988-03-15,316626,19,0.354,0.623,0.354,0.712,0.00385,0.11,-6.674,0.0327,106.022,4
+87,Sax and Violins - 2005 Remaster,Naked,Talking Heads,1988-03-15,317706,26,0.688,0.153,0.688,0.688,0.00013,0.0679,-7.35,0.0506,112.58,4
+88,Love for Sale - 2005 Remaster,True Stories,Talking Heads,1986-10-07,271813,36,0.652,0.000858,0.652,0.896,0.0,0.269,-5.166,0.0573,136.51,4
+89,Puzzlin' Evidence - 2005 Remaster,True Stories,Talking Heads,1986-10-07,324026,26,0.532,0.0588,0.532,0.975,1.65e-05,0.141,-6.114,0.0571,154.354,4
+90,Hey Now - 2005 Remaster,True Stories,Talking Heads,1986-10-07,222986,27,0.786,0.108,0.786,0.948,0.000614,0.303,-5.745,0.0553,130.585,4
+91,Papa Legba - 2005 Remaster,True Stories,Talking Heads,1986-10-07,355973,25,0.771,0.0313,0.771,0.83,0.112,0.247,-9.58,0.0482,113.136,4
+92,Wild Wild Life - 2005 Remaster,True Stories,Talking Heads,1986-10-07,220680,44,0.659,0.0154,0.659,0.862,0.0,0.389,-5.424,0.0302,137.393,4
+93,Radio Head - 2005 Remaster,True Stories,Talking Heads,1986-10-07,212266,34,0.649,0.046,0.649,0.939,0.0,0.385,-5.419,0.0419,122.9,4
+94,Dream Operator - 2005 Remaster,True Stories,Talking Heads,1986-10-07,278733,29,0.606,0.608,0.606,0.571,3.48e-05,0.176,-7.832,0.0252,139.787,3
+95,People Like Us - 2005 Remaster,True Stories,Talking Heads,1986-10-07,268093,27,0.578,0.215,0.578,0.741,1.51e-05,0.075,-4.868,0.0298,120.202,4
+96,City of Dreams - 2005 Remaster,True Stories,Talking Heads,1986-10-07,309306,27,0.602,0.0364,0.602,0.635,0.00621,0.159,-6.717,0.0241,96.613,4
+97,Wild Wild Life - Extended Mix; 2005 Remaster,True Stories,Talking Heads,1986-10-07,336480,26,0.61,0.00278,0.61,0.965,0.0143,0.366,-4.831,0.0422,137.518,4
+98,Papa Legba - Pop Staples Vocal Version,True Stories,Talking Heads,1986-10-07,361693,21,0.747,0.0664,0.747,0.847,0.0484,0.27,-8.464,0.0299,113.068,4
+99,Radio Head - Tito Larriva Vocal Version,True Stories,Talking Heads,1986-10-07,230226,21,0.767,0.0687,0.767,0.888,0.0,0.305,-6.146,0.0691,122.597,4
+100,Love for Sale - 2005 Remaster,True Stories (Deluxe Version),Talking Heads,1986-10-07,271666,33,0.655,0.000845,0.655,0.891,1.31e-06,0.284,-5.173,0.0567,136.525,4
+101,Puzzlin' Evidence - 2005 Remaster,True Stories (Deluxe Version),Talking Heads,1986-10-07,324026,23,0.533,0.0468,0.533,0.975,2.44e-05,0.152,-6.078,0.0527,154.342,4
+102,Hey Now - 2005 Remaster,True Stories (Deluxe Version),Talking Heads,1986-10-07,221920,23,0.784,0.111,0.784,0.953,0.000407,0.251,-5.76,0.054,130.595,4
+103,Papa Legba - 2005 Remaster,True Stories (Deluxe Version),Talking Heads,1986-10-07,355973,22,0.771,0.0305,0.771,0.829,0.116,0.264,-9.621,0.0488,113.134,4
+104,Wild Wild Life - 2005 Remaster,True Stories (Deluxe Version),Talking Heads,1986-10-07,219813,42,0.646,0.0191,0.646,0.879,0.0,0.362,-5.406,0.03,137.413,4
+105,Radio Head - 2005 Remaster,True Stories (Deluxe Version),Talking Heads,1986-10-07,212026,33,0.649,0.0478,0.649,0.943,0.0,0.354,-5.435,0.0418,122.903,4
+106,Dream Operator - 2005 Remaster,True Stories (Deluxe Version),Talking Heads,1986-10-07,278733,26,0.601,0.597,0.601,0.568,6.21e-05,0.164,-7.809,0.0249,139.776,3
+107,People Like Us - 2005 Remaster,True Stories (Deluxe Version),Talking Heads,1986-10-07,268093,25,0.575,0.231,0.575,0.737,1.76e-05,0.0769,-4.854,0.0302,120.193,4
+108,City of Dreams - 2005 Remaster,True Stories (Deluxe Version),Talking Heads,1986-10-07,307880,25,0.599,0.0439,0.599,0.63,0.00602,0.17,-6.742,0.0238,96.611,4
+109,Wild Wild Life - Extended Mix; 2005 Remaster,True Stories (Deluxe Version),Talking Heads,1986-10-07,330480,24,0.619,0.00333,0.619,0.968,0.0094,0.372,-4.818,0.0456,137.423,4
+110,Papa Legba - Pops Staples Vocal Version,True Stories (Deluxe Version),Talking Heads,1986-10-07,358693,19,0.75,0.0649,0.75,0.854,0.0515,0.407,-8.459,0.0301,113.066,4
+111,Radio Head - Tito Larriva Vocal Version,True Stories (Deluxe Version),Talking Heads,1986-10-07,230226,17,0.774,0.0725,0.774,0.882,0.0,0.304,-6.113,0.0749,122.635,4
+112,And She Was - 2005 Remaster,Little Creatures,Talking Heads,1985-07-10,219413,56,0.697,0.0059,0.697,0.846,0.0256,0.0967,-5.471,0.03,126.467,4
+113,Give Me Back My Name - 2005 Remaster,Little Creatures,Talking Heads,1985-07-10,202373,32,0.761,0.0438,0.761,0.683,0.0758,0.0799,-7.147,0.0305,116.97,4
+114,Creatures of Love - 2005 Remaster,Little Creatures,Talking Heads,1985-07-10,255800,33,0.641,0.189,0.641,0.753,0.000323,0.149,-6.535,0.0251,137.435,4
+115,The Lady Don't Mind - 2005 Remaster,Little Creatures,Talking Heads,1985-07-10,238906,48,0.75,0.302,0.75,0.877,0.0467,0.0723,-5.93,0.0308,127.996,4
+116,Perfect World - 2005 Remaster,Little Creatures,Talking Heads,1985-07-10,267333,37,0.759,0.0267,0.759,0.727,0.139,0.167,-6.568,0.0369,117.622,4
+117,Stay up Late - 2005 Remaster,Little Creatures,Talking Heads,1985-07-10,223960,38,0.596,0.00789,0.596,0.679,0.000453,0.0321,-5.814,0.0506,111.272,4
+118,Walk It Down - 2005 Remaster,Little Creatures,Talking Heads,1985-07-10,284720,31,0.797,0.144,0.797,0.778,0.00131,0.201,-4.818,0.034,98.299,4
+119,Television Man - 2005 Remaster,Little Creatures,Talking Heads,1985-07-10,370680,36,0.755,0.223,0.755,0.733,0.0875,0.0336,-5.834,0.0379,120.045,4
+120,Road to Nowhere - 2005 Remaster,Little Creatures,Talking Heads,1985-07-10,260213,63,0.654,0.0404,0.654,0.789,1.29e-05,0.119,-4.901,0.0322,110.378,4
+121,Road to Nowhere - Early Version,Little Creatures,Talking Heads,1985-07-10,279346,31,0.69,0.0328,0.69,0.722,3.04e-05,0.0751,-8.898,0.0311,103.421,4
+122,And She Was - Early Version,Little Creatures,Talking Heads,1985-07-10,219440,31,0.791,0.0363,0.791,0.813,0.00929,0.194,-8.592,0.0353,124.732,4
+123,Television Man - Extended Mix,Little Creatures,Talking Heads,1985-07-10,472573,27,0.729,0.0855,0.729,0.616,0.00557,0.137,-6.988,0.0402,119.763,4
+124,And She Was - 2005 Remaster,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,218466,44,0.702,0.00606,0.702,0.833,0.0158,0.124,-5.428,0.0298,126.469,4
+125,Give Me Back My Name - 2005 Remaster,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,200400,27,0.766,0.0391,0.766,0.681,0.0394,0.103,-7.167,0.0304,116.982,4
+126,Creatures of Love - 2005 Remaster,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,254253,28,0.634,0.208,0.634,0.758,0.000601,0.25,-6.538,0.0258,137.411,4
+127,The Lady Don't Mind - 2005 Remaster,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,238546,40,0.75,0.271,0.75,0.88,0.0506,0.0657,-5.947,0.0307,127.981,4
+128,Perfect World - 2005 Remaster,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,267333,34,0.758,0.03,0.758,0.746,0.0903,0.162,-6.618,0.0374,117.642,4
+129,Stay up Late - 2005 Remaster,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,222413,40,0.604,0.00829,0.604,0.697,0.000238,0.0356,-5.81,0.0543,111.277,4
+130,Walk It Down - 2005 Remaster,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,282546,27,0.803,0.134,0.803,0.769,0.00114,0.443,-4.806,0.0321,98.341,4
+131,Television Man - 2005 Remaster,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,370480,34,0.755,0.212,0.755,0.733,0.121,0.0503,-5.838,0.0375,120.04,4
+132,Road to Nowhere - 2005 Remaster,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,259480,43,0.655,0.0371,0.655,0.8,3.65e-05,0.131,-4.901,0.033,110.346,4
+133,Road to Nowhere - Early Version,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,277440,26,0.693,0.0458,0.693,0.726,2.98e-05,0.0471,-8.943,0.0311,103.421,4
+134,And She Was - Early Version,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,216440,25,0.791,0.0329,0.791,0.818,0.012,0.164,-8.603,0.0346,124.751,4
+135,Television Man - Extended Mix,Little Creatures (Deluxe Version),Talking Heads,1985-07-10,472573,21,0.729,0.0875,0.729,0.622,0.00345,0.16,-6.99,0.0398,119.748,4
+136,And She Was,Little Creatures,Talking Heads,1985-07-10,219200,55,0.763,0.013,0.763,0.629,0.0585,0.0756,-9.947,0.0322,126.477,4
+137,Give Me Back My Name,Little Creatures,Talking Heads,1985-07-10,202373,19,0.762,0.0563,0.762,0.475,0.0308,0.0937,-13.619,0.035,116.995,4
+138,Creatures of Love,Little Creatures,Talking Heads,1985-07-10,255800,20,0.627,0.228,0.627,0.525,0.000178,0.295,-13.47,0.0264,137.41,4
+139,The Lady Don't Mind,Little Creatures,Talking Heads,1985-07-10,238560,21,0.741,0.304,0.741,0.676,0.0277,0.11,-13.275,0.0316,127.963,4
+140,Perfect World,Little Creatures,Talking Heads,1985-07-10,267333,19,0.761,0.034,0.761,0.52,0.0625,0.123,-14.185,0.0415,117.642,4
+141,Stay up Late,Little Creatures,Talking Heads,1985-07-10,233133,28,0.618,0.0102,0.618,0.566,0.00131,0.0387,-10.47,0.0435,110.977,4
+142,Walk It Down,Little Creatures,Talking Heads,1985-07-10,284733,18,0.8,0.155,0.8,0.541,0.00108,0.21,-12.41,0.0321,98.322,4
+143,Television Man,Little Creatures,Talking Heads,1985-07-10,370466,19,0.756,0.249,0.756,0.535,0.0503,0.0409,-12.465,0.0416,120.049,4
+144,Road to Nowhere,Little Creatures,Talking Heads,1985-07-10,259106,56,0.661,0.0361,0.661,0.713,2.27e-05,0.153,-7.825,0.0296,110.364,4
+145,Psycho Killer - Live,Stop Making Sense,Talking Heads,1984,264933,50,0.76,0.00202,0.76,0.596,0.00356,0.981,-10.728,0.0501,114.007,4
+146,Heaven - Live,Stop Making Sense,Talking Heads,1984,221000,47,0.612,0.849,0.612,0.357,3.23e-06,0.516,-10.4,0.0303,107.129,4
+147,Thank You for Sending Me an Angel - Live,Stop Making Sense,Talking Heads,1984,129800,43,0.6,0.0024,0.6,0.921,0.0599,0.7,-8.631,0.0464,138.116,4
+148,Found a Job - Live,Stop Making Sense,Talking Heads,1984,195373,41,0.712,0.113,0.712,0.747,0.00334,0.685,-8.929,0.0363,122.606,4
+149,Slippery People - Live,Stop Making Sense,Talking Heads,1984,240960,54,0.637,0.216,0.637,0.851,0.0365,0.68,-8.127,0.0437,110.892,4
+150,Burning Down the House - Live,Stop Making Sense,Talking Heads,1984,246306,46,0.654,0.00457,0.654,0.864,0.0649,0.979,-9.389,0.04,109.672,4
+151,Life During Wartime - Live,Stop Making Sense,Talking Heads,1984,351333,45,0.613,0.0744,0.613,0.864,0.00763,0.986,-8.781,0.0565,138.047,4
+152,Making Flippy Floppy - Live,Stop Making Sense,Talking Heads,1984,280293,40,0.605,0.0907,0.605,0.871,0.0535,0.709,-8.531,0.0388,128.499,4
+153,Swamp - Live,Stop Making Sense,Talking Heads,1984,270200,39,0.756,0.109,0.756,0.553,0.00145,0.78,-10.565,0.108,117.02,4
+154,What a Day That Was - Live; Edit,Stop Making Sense,Talking Heads,1984,360640,42,0.558,0.1,0.558,0.874,0.0158,0.822,-8.982,0.0358,145.971,4
+155,This Must Be the Place (Naive Melody) - Live,Stop Making Sense,Talking Heads,1984,297226,49,0.769,0.394,0.769,0.583,0.00103,0.705,-10.191,0.0329,114.248,4
+156,Once in a Lifetime - Live,Stop Making Sense,Talking Heads,1984,325573,46,0.518,0.028,0.518,0.769,5.31e-05,0.962,-8.696,0.102,122.783,4
+157,Genius of Love (Tom Tom Club) - Live,Stop Making Sense,Talking Heads,1984,270800,43,0.769,0.126,0.769,0.74,0.0029,0.99,-8.673,0.052,112.464,4
+158,Girlfriend Is Better - Live,Stop Making Sense,Talking Heads,1984,306426,43,0.648,0.0378,0.648,0.794,3.3e-05,0.712,-7.879,0.0443,126.96,4
+159,Take Me to the River - Live,Stop Making Sense,Talking Heads,1984,332973,41,0.633,0.107,0.633,0.66,0.000126,0.698,-9.164,0.0651,119.272,4
+160,Crosseyed and Painless - Live,Stop Making Sense,Talking Heads,1984,371026,39,0.449,0.0529,0.449,0.831,0.00261,0.696,-9.719,0.057,144.987,4
+161,Burning Down the House - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,241773,51,0.776,0.00294,0.776,0.871,0.0129,0.0598,-11.108,0.0519,103.249,4
+162,Making Flippy Floppy - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,354213,45,0.82,0.074,0.82,0.876,0.0578,0.124,-6.784,0.0333,122.967,4
+163,Girlfriend Is Better - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,343426,51,0.865,0.0892,0.865,0.752,0.000626,0.0401,-6.493,0.0941,118.649,4
+164,Slippery People - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,306320,46,0.89,0.00876,0.89,0.63,0.00218,0.0179,-9.661,0.0726,104.204,4
+165,I Get Wild / Wild Gravity - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,316680,42,0.928,0.0106,0.928,0.654,0.237,0.0722,-8.712,0.0695,126.062,4
+166,Swamp - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,313000,44,0.898,0.0928,0.898,0.579,0.0938,0.185,-9.217,0.091,116.506,4
+167,Moon Rocks - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,345573,49,0.867,0.0572,0.867,0.656,0.819,0.406,-9.019,0.041,123.654,4
+168,Pull up the Roots - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,309880,42,0.774,0.0653,0.774,0.67,0.528,0.101,-8.11,0.0492,126.234,4
+169,This Must Be the Place (Naive Melody) - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,296146,71,0.942,0.331,0.942,0.641,0.179,0.028,-10.15,0.0333,114.443,4
+170,Two Note Swivel - Unfinished Outtake,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,348786,40,0.883,0.00735,0.883,0.468,0.525,0.111,-11.893,0.0434,116.123,4
+171,Burning Down the House - Alternate Version,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,309680,38,0.849,0.00334,0.849,0.765,0.334,0.0663,-11.496,0.0458,103.007,4
+172,Burning Down the House,Speaking in Tongues,Talking Heads,1983-05-31,243333,40,0.765,0.0142,0.765,0.924,0.0074,0.0663,-9.143,0.0663,103.231,4
+173,Making Flippy Floppy,Speaking in Tongues,Talking Heads,1983-05-31,354533,31,0.821,0.0817,0.821,0.755,0.083,0.231,-10.919,0.0333,122.885,4
+174,Girlfriend Is Better,Speaking in Tongues,Talking Heads,1983-05-31,345373,35,0.866,0.158,0.866,0.674,0.00053,0.0522,-10.906,0.0991,118.576,4
+175,Slippery People,Speaking in Tongues,Talking Heads,1983-05-31,306560,34,0.885,0.0312,0.885,0.597,0.00462,0.0139,-12.703,0.0632,104.139,4
+176,I Get Wild / Wild Gravity,Speaking in Tongues,Talking Heads,1983-05-31,316573,28,0.935,0.0169,0.935,0.596,0.166,0.0608,-12.485,0.0632,126.058,4
+177,Swamp,Speaking in Tongues,Talking Heads,1983-05-31,313733,31,0.903,0.0747,0.903,0.459,0.0558,0.147,-13.122,0.0794,116.637,4
+178,Moon Rocks,Speaking in Tongues,Talking Heads,1983-05-31,345466,31,0.87,0.06,0.87,0.585,0.795,0.451,-12.132,0.0409,123.64,4
+179,Pull up the Roots,Speaking in Tongues,Talking Heads,1983-05-31,309933,29,0.777,0.093,0.777,0.603,0.745,0.0568,-10.726,0.0575,126.217,4
+180,This Must Be the Place (Naive Melody),Speaking in Tongues,Talking Heads,1983-05-31,295426,37,0.942,0.362,0.942,0.747,0.0986,0.057,-7.844,0.0349,114.611,4
+181,New Feeling - Live; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,189866,29,0.739,0.0262,0.739,0.896,0.00196,0.114,-5.451,0.0444,132.038,4
+182,A Clean Break (Let's Work) - Live; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,305000,42,0.788,0.0504,0.788,0.799,0.00321,0.887,-5.699,0.0388,130.36,4
+183,Don't Worry About the Government - Live; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,183866,27,0.829,0.28,0.829,0.734,2.13e-05,0.684,-6.474,0.0519,122.457,4
+184,Pulled Up - Live; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,244466,27,0.729,0.0312,0.729,0.811,3.08e-06,0.707,-5.599,0.0564,141.721,4
+185,Psycho Killer - Live; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,331560,31,0.565,0.0765,0.565,0.741,0.0112,0.569,-5.908,0.0467,123.778,4
+186,Who Is It? - Live; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,104373,25,0.747,0.106,0.747,0.842,2.42e-05,0.639,-5.266,0.102,128.339,4
+187,The Book I Read - Live; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,262226,27,0.691,0.145,0.691,0.719,0.0293,0.607,-6.016,0.0303,127.122,4
+188,The Big Country - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,309173,27,0.632,0.121,0.632,0.869,0.00259,0.364,-5.505,0.0616,117.359,4
+189,I'm Not in Love - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,297666,25,0.59,0.279,0.59,0.909,0.0264,0.99,-5.541,0.16,138.254,4
+190,The Girls Want to Be with the Girls - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,224426,25,0.734,0.16,0.734,0.841,0.00035,0.804,-5.029,0.0326,126.242,4
+191,Electricity (Drugs) - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,208000,25,0.516,0.103,0.516,0.758,0.000217,0.869,-4.925,0.0436,101.77,4
+192,Found a Job - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,335706,24,0.564,0.332,0.564,0.772,0.00281,0.315,-5.652,0.0463,120.063,4
+193,Mind - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,295933,24,0.6,0.231,0.6,0.774,0.0115,0.947,-4.578,0.0327,100.238,4
+194,Artists Only - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,229666,23,0.603,0.0993,0.603,0.746,0.376,0.901,-4.418,0.0284,127.23,4
+195,Stay Hungry - 1979 Version; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,245000,23,0.563,0.0377,0.563,0.873,0.373,0.847,-4.793,0.0406,124.053,4
+196,Air - Extended; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,241600,23,0.453,0.136,0.453,0.908,0.0022,0.88,-3.614,0.107,117.616,4
+197,Love → Building on Fire - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,226933,24,0.529,0.0587,0.529,0.696,0.0761,0.139,-4.112,0.0418,125.907,4
+198,Memories (Can't Wait) - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,224066,23,0.317,0.148,0.317,0.863,0.00552,0.132,-3.774,0.0629,188.348,4
+199,Heaven - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,271160,24,0.465,0.0952,0.465,0.641,0.00962,0.805,-6.658,0.0279,96.727,4
+200,Psycho Killer - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,333800,28,0.437,0.0204,0.437,0.782,0.301,0.953,-6.005,0.0565,122.164,4
+201,Warning Sign - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,339933,22,0.645,0.00781,0.645,0.873,0.319,0.967,-5.06,0.0413,135.346,4
+202,Stay Hungry - 1980 Version; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,236133,21,0.465,0.0179,0.465,0.867,0.696,0.807,-5.418,0.0351,131.582,4
+203,Cities - Extended; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,300800,23,0.496,0.168,0.496,0.932,0.0043,0.954,-4.903,0.0667,128.467,4
+204,I Zimbra - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,210400,23,0.585,0.229,0.585,0.906,0.325,0.717,-5.3,0.044,117.378,4
+205,Drugs - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,281000,22,0.513,0.362,0.513,0.799,0.0723,0.631,-1.91,0.0584,101.417,4
+206,Once in a Lifetime - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,357093,25,0.639,0.315,0.639,0.878,0.0062,0.707,-4.634,0.047,114.51,4
+207,Animals - Extended; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,245066,21,0.655,0.159,0.655,0.861,8.96e-06,0.689,-4.744,0.0445,116.259,4
+208,Houses in Motion - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,414600,23,0.61,0.381,0.61,0.931,0.00177,0.982,-5.183,0.0833,98.282,4
+209,Born Under Punches (The Heat Goes On) - Extended; 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,504840,37,0.57,0.0158,0.57,0.897,0.0137,0.855,-6.692,0.0438,118.77,3
+210,Crosseyed and Painless - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,358666,23,0.646,0.171,0.646,0.956,0.0059,0.977,-3.073,0.118,130.351,4
+211,Life During Wartime - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,294066,24,0.659,0.141,0.659,0.976,6.49e-05,0.838,-3.463,0.0813,137.682,4
+212,Take Me to the River - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,393533,24,0.669,0.00943,0.669,0.834,2.88e-05,0.719,-4.441,0.0365,103.106,4
+213,The Great Curve - 2004 Remaster,The Name of This Band Is Talking Heads (Expanded 2004 Remaster),Talking Heads,1982-03-24,402466,24,0.545,0.0167,0.545,0.882,0.000789,0.731,-4.885,0.102,146.331,4
+214,Born Under Punches (The Heat Goes On),Remain in Light,Talking Heads,1980-10-08,348973,37,0.731,0.312,0.731,0.709,0.226,0.119,-13.613,0.064,112.426,4
+215,Crosseyed and Painless,Remain in Light,Talking Heads,1980-10-08,285733,36,0.708,0.149,0.708,0.728,0.476,0.142,-9.595,0.0326,135.518,4
+216,The Great Curve,Remain in Light,Talking Heads,1980-10-08,387533,35,0.605,0.186,0.605,0.662,0.000321,0.0741,-12.737,0.0576,151.643,4
+217,Once in a Lifetime,Remain in Light,Talking Heads,1980-10-08,259600,46,0.646,0.0623,0.646,0.88,0.157,0.355,-7.753,0.0637,116.916,4
+218,Houses in Motion,Remain in Light,Talking Heads,1980-10-08,273200,33,0.731,0.58,0.731,0.533,0.479,0.128,-18.424,0.0461,101.328,4
+219,Seen and Not Seen,Remain in Light,Talking Heads,1980-10-08,204533,32,0.775,0.138,0.775,0.624,0.655,0.047,-18.045,0.0577,97.728,4
+220,Listening Wind,Remain in Light,Talking Heads,1980-10-08,283040,31,0.732,0.427,0.732,0.483,0.471,0.105,-18.364,0.0709,143.457,4
+221,The Overload,Remain in Light,Talking Heads,1980-10-08,360693,29,0.438,0.787,0.438,0.185,0.7,0.0511,-21.039,0.0271,91.854,4
+222,Born Under Punches (The Heat Goes On) - 2005 Remaster,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,349280,56,0.734,0.215,0.734,0.859,0.343,0.0823,-7.237,0.0922,112.941,4
+223,Crosseyed and Painless - 2005 Remaster,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,285613,51,0.723,0.138,0.723,0.818,0.748,0.218,-5.946,0.0366,135.122,4
+224,The Great Curve - 2005 Remaster,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,387560,48,0.6,0.403,0.6,0.869,0.0205,0.0683,-5.591,0.0795,152.06,4
+225,Once in a Lifetime - 2005 Remaster,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,259906,70,0.644,0.181,0.644,0.919,0.134,0.622,-6.289,0.0561,117.459,4
+226,Houses in Motion - 2005 Remaster,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,273200,46,0.744,0.677,0.744,0.763,0.628,0.153,-10.399,0.0643,101.838,4
+227,Seen and Not Seen - 2005 Remaster,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,204520,42,0.771,0.111,0.771,0.748,0.912,0.0549,-10.012,0.0653,98.183,4
+228,Listening Wind - 2005 Remaster,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,282906,45,0.725,0.501,0.725,0.788,0.568,0.292,-8.312,0.0837,144.418,4
+229,The Overload - 2005 Remaster,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,362933,40,0.42,0.671,0.42,0.39,0.802,0.0658,-11.742,0.0273,91.104,4
+230,Fela's Riff - Unfinished Outtake,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,316106,37,0.691,0.000788,0.691,0.826,0.888,0.164,-8.627,0.141,140.561,4
+231,Unison - Unfinished Outtake,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,286800,35,0.711,0.132,0.711,0.909,0.026,0.36,-8.368,0.0576,125.779,4
+232,Double Groove - Unfinished Outtake,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,264720,34,0.598,0.0655,0.598,0.945,0.879,0.454,-9.021,0.0579,105.239,4
+233,Right Start - Unfinished Outtake,Remain in Light (Deluxe Version),Talking Heads,1980-10-08,247160,35,0.819,0.132,0.819,0.637,0.571,0.182,-8.564,0.0465,123.48,4
+234,I Zimbra,Fear of Music,Talking Heads,1979-08-03,188666,30,0.673,0.044,0.673,0.517,0.16,0.147,-17.397,0.034,113.959,4
+235,Mind,Fear of Music,Talking Heads,1979-08-03,252733,29,0.641,0.209,0.641,0.554,0.0614,0.238,-14.085,0.0487,103.557,4
+236,Paper,Fear of Music,Talking Heads,1979-08-03,159426,26,0.428,0.0327,0.428,0.713,0.307,0.108,-13.918,0.0556,117.756,4
+237,Cities,Fear of Music,Talking Heads,1979-08-03,250306,30,0.622,0.0882,0.622,0.783,0.0633,0.294,-13.366,0.0409,130.511,4
+238,Life During Wartime,Fear of Music,Talking Heads,1979-08-03,221066,37,0.804,0.0554,0.804,0.729,0.363,0.031,-15.419,0.0347,133.017,4
+239,Memories Can't Wait,Fear of Music,Talking Heads,1979-08-03,210026,27,0.261,0.00268,0.261,0.521,0.381,0.248,-12.802,0.0332,183.181,4
+240,Air,Fear of Music,Talking Heads,1979-08-03,214120,27,0.518,0.0779,0.518,0.488,0.000238,0.0935,-12.285,0.0334,120.405,4
+241,Heaven,Fear of Music,Talking Heads,1979-08-03,240813,31,0.596,0.095,0.596,0.42,0.245,0.252,-12.9,0.0256,107.089,4
+242,Animals,Fear of Music,Talking Heads,1979-08-03,210173,25,0.631,0.222,0.631,0.661,0.000382,0.149,-12.556,0.0697,114.973,4
+243,Electric Guitar,Fear of Music,Talking Heads,1979-08-03,182800,23,0.639,0.244,0.639,0.599,0.125,0.188,-14.855,0.0368,84.567,4
+244,Drugs,Fear of Music,Talking Heads,1979-08-03,309986,26,0.584,0.185,0.584,0.204,0.644,0.545,-18.617,0.0345,94.778,4
+245,I Zimbra - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,188973,43,0.67,0.0751,0.67,0.743,0.223,0.241,-10.371,0.0332,113.883,4
+246,Mind - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,252040,40,0.618,0.279,0.618,0.801,0.042,0.38,-6.416,0.0433,103.296,4
+247,Paper - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,158613,32,0.412,0.0284,0.412,0.854,0.278,0.164,-8.327,0.0531,117.55,4
+248,Cities - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,254000,42,0.608,0.0639,0.608,0.867,0.0224,0.321,-7.347,0.0441,127.585,4
+249,Life During Wartime - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,221320,49,0.801,0.0806,0.801,0.93,0.152,0.0558,-7.365,0.0354,133.255,4
+250,Memories Can't Wait - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,210013,32,0.383,0.0204,0.383,0.778,0.228,0.441,-4.845,0.0282,91.176,4
+251,Air - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,214133,38,0.523,0.0637,0.523,0.681,0.00146,0.082,-5.884,0.0301,120.533,4
+252,Heaven - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,241466,41,0.582,0.0915,0.582,0.663,0.136,0.23,-6.257,0.0246,107.136,4
+253,Animals - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,210426,30,0.613,0.222,0.613,0.799,5.36e-05,0.153,-7.359,0.076,114.692,4
+254,Electric Guitar - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,181200,28,0.618,0.16,0.618,0.815,0.0508,0.233,-7.885,0.0346,84.357,4
+255,Drugs - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,314880,39,0.58,0.19,0.58,0.382,0.743,0.493,-10.386,0.0347,94.372,4
+256,Dancing for Money - Unfinished Outtake,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,159906,27,0.79,0.484,0.79,0.649,0.501,0.303,-10.314,0.0321,121.773,4
+257,Life During Wartime - Alternate Version,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,245466,26,0.652,0.0366,0.652,0.922,0.0262,0.18,-5.955,0.0436,131.826,4
+258,Cities - Alternate Version,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,328133,25,0.619,0.0808,0.619,0.882,1.45e-05,0.824,-7.223,0.0452,127.329,4
+259,Mind - Alternate Version,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,266373,24,0.597,0.134,0.597,0.632,0.309,0.202,-7.159,0.0251,103.781,4
+260,I Zimbra - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,188973,4,0.67,0.0751,0.67,0.743,0.223,0.241,-10.371,0.0332,113.883,4
+261,Mind - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,252040,4,0.618,0.279,0.618,0.801,0.042,0.38,-6.416,0.0433,103.296,4
+262,Paper - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,158613,3,0.412,0.0284,0.412,0.854,0.278,0.164,-8.327,0.0531,117.55,4
+263,Cities - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,254000,4,0.608,0.0639,0.608,0.867,0.0224,0.321,-7.347,0.0441,127.585,4
+264,Life During Wartime - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,221320,4,0.801,0.0806,0.801,0.93,0.152,0.0558,-7.365,0.0354,133.255,4
+265,Memories Can't Wait - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,210013,3,0.383,0.0204,0.383,0.778,0.228,0.441,-4.845,0.0282,91.176,4
+266,Air - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,214133,3,0.523,0.0637,0.523,0.681,0.00146,0.082,-5.884,0.0301,120.533,4
+267,Heaven - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,241466,4,0.582,0.0915,0.582,0.663,0.136,0.23,-6.257,0.0246,107.136,4
+268,Animals - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,210426,2,0.613,0.222,0.613,0.799,5.36e-05,0.153,-7.359,0.076,114.692,4
+269,Electric Guitar - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,181200,2,0.618,0.16,0.618,0.815,0.0508,0.233,-7.885,0.0346,84.357,4
+270,Drugs - 2005 Remaster,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,314880,2,0.58,0.19,0.58,0.382,0.743,0.493,-10.386,0.0347,94.372,4
+271,Dancing for Money - Unfinished Outtake,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,159906,1,0.79,0.484,0.79,0.649,0.501,0.303,-10.314,0.0321,121.773,4
+272,Life During Wartime - Alternate Version,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,245466,1,0.652,0.0366,0.652,0.922,0.0262,0.18,-5.955,0.0436,131.826,4
+273,Cities - Alternate Version,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,328133,1,0.619,0.0808,0.619,0.882,1.45e-05,0.824,-7.223,0.0452,127.329,4
+274,Mind - Alternate Version,Fear of Music (Deluxe Version),Talking Heads,1979-08-03,266373,1,0.597,0.134,0.597,0.632,0.309,0.202,-7.159,0.0251,103.781,4
+275,Thank You for Sending Me an Angel,More Songs About Buildings and Food,Talking Heads,1978-07-14,131573,28,0.572,0.0427,0.572,0.639,0.275,0.0754,-12.253,0.0335,137.776,4
+276,With Our Love,More Songs About Buildings and Food,Talking Heads,1978-07-14,211266,26,0.702,0.235,0.702,0.498,0.0409,0.11,-13.822,0.0342,127.129,4
+277,The Good Thing,More Songs About Buildings and Food,Talking Heads,1978-07-14,183760,30,0.836,0.405,0.836,0.393,0.0111,0.511,-14.243,0.0439,126.675,4
+278,Warning Sign,More Songs About Buildings and Food,Talking Heads,1978-07-14,234960,26,0.678,0.11,0.678,0.67,0.00111,0.398,-10.218,0.0586,128.686,4
+279,The Girl Wants to Be with the Girls,More Songs About Buildings and Food,Talking Heads,1978-07-14,158400,27,0.649,0.069,0.649,0.52,0.469,0.197,-13.716,0.0319,129.844,4
+280,Found a Job,More Songs About Buildings and Food,Talking Heads,1978-07-14,299160,28,0.703,0.336,0.703,0.642,0.0571,0.112,-12.305,0.0355,121.346,4
+281,Artists Only,More Songs About Buildings and Food,Talking Heads,1978-07-14,215640,26,0.406,0.0324,0.406,0.437,0.0931,0.0945,-14.531,0.0317,131.481,4
+282,I'm Not in Love,More Songs About Buildings and Food,Talking Heads,1978-07-14,275200,26,0.526,0.0128,0.526,0.542,0.0322,0.164,-15.541,0.128,134.258,4
+283,Stay Hungry,More Songs About Buildings and Food,Talking Heads,1978-07-14,160560,24,0.64,0.398,0.64,0.624,0.502,0.16,-13.247,0.0346,124.354,4
+284,Take Me to the River,More Songs About Buildings and Food,Talking Heads,1978-07-14,302893,37,0.66,0.187,0.66,0.389,0.0131,0.0779,-11.271,0.027,99.705,4
+285,The Big Country,More Songs About Buildings and Food,Talking Heads,1978-07-14,330706,30,0.724,0.135,0.724,0.458,0.000723,0.166,-11.911,0.0329,111.18,4
+286,Thank You for Sending Me an Angel - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,131560,3,0.565,0.0419,0.565,0.856,0.0415,0.119,-5.465,0.0533,138.026,4
+287,With Our Love - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,210800,2,0.688,0.118,0.688,0.719,0.000729,0.0715,-6.876,0.0348,127.437,4
+288,The Good Thing - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,183186,3,0.83,0.476,0.83,0.611,0.00096,0.297,-6.811,0.0333,127.051,4
+289,Warning Sign - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,234120,2,0.667,0.0956,0.667,0.748,0.000245,0.363,-7.437,0.058,129.001,4
+290,The Girl Wants to Be with the Girls - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,158106,2,0.647,0.0175,0.647,0.682,0.161,0.228,-8.178,0.0338,130.094,4
+291,Found a Job - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,301066,2,0.706,0.227,0.706,0.831,0.000299,0.216,-6.286,0.0297,121.784,4
+292,Artists Only - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,214800,2,0.414,0.0205,0.414,0.601,0.0107,0.0876,-9.978,0.0296,132.055,4
+293,I'm Not in Love - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,274133,2,0.529,0.00368,0.529,0.701,0.00344,0.0636,-9.597,0.185,136.827,4
+294,Stay Hungry - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,159933,2,0.655,0.322,0.655,0.801,0.271,0.145,-8.345,0.0326,124.781,4
+295,Take Me to the River - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,302520,3,0.66,0.242,0.66,0.485,0.0102,0.0585,-8.101,0.0258,99.828,4
+296,The Big Country - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,333386,2,0.71,0.166,0.71,0.558,0.00121,0.237,-8.148,0.0307,111.152,4
+297,Stay Hungry - 1977 Version; 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,224720,1,0.888,0.0115,0.888,0.648,0.00381,0.0903,-8.925,0.0377,129.62,4
+298,I'm Not in Love - Alternate Version,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,315386,1,0.57,0.0505,0.57,0.64,0.000504,0.599,-7.878,0.0723,129.292,4
+299,The Big Country - Alternate Version,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,301466,1,0.795,0.0867,0.795,0.463,6.02e-05,0.0772,-9.741,0.0341,122.172,4
+300,Thank You for Sending Me an Angel - Country Angel Version,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,131906,1,0.621,0.15,0.621,0.796,0.000273,0.491,-8.131,0.0358,138.188,4
+301,Thank You for Sending Me an Angel - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,131560,35,0.565,0.0419,0.565,0.856,0.0415,0.119,-5.465,0.0533,138.026,4
+302,With Our Love - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,210800,37,0.688,0.118,0.688,0.719,0.000729,0.0715,-6.876,0.0348,127.437,4
+303,The Good Thing - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,183186,38,0.83,0.476,0.83,0.611,0.00096,0.297,-6.811,0.0333,127.051,4
+304,Warning Sign - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,234120,38,0.667,0.0956,0.667,0.748,0.000245,0.363,-7.437,0.058,129.001,4
+305,The Girl Wants to Be with the Girls - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,158106,38,0.647,0.0175,0.647,0.682,0.161,0.228,-8.178,0.0338,130.094,4
+306,Found a Job - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,301066,34,0.706,0.227,0.706,0.831,0.000299,0.216,-6.286,0.0297,121.784,4
+307,Artists Only - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,214800,31,0.414,0.0205,0.414,0.601,0.0107,0.0876,-9.978,0.0296,132.055,4
+308,I'm Not in Love - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,274133,31,0.529,0.00368,0.529,0.701,0.00344,0.0636,-9.597,0.185,136.827,4
+309,Stay Hungry - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,159933,29,0.655,0.322,0.655,0.801,0.271,0.145,-8.345,0.0326,124.781,4
+310,Take Me to the River - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,302520,59,0.66,0.242,0.66,0.485,0.0102,0.0585,-8.101,0.0258,99.828,4
+311,The Big Country - 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,333386,48,0.71,0.166,0.71,0.558,0.00121,0.237,-8.148,0.0307,111.152,4
+312,Stay Hungry - 1977 Version; 2005 Remaster,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,224720,26,0.888,0.0115,0.888,0.648,0.00381,0.0903,-8.925,0.0377,129.62,4
+313,I'm Not in Love - Alternate Version,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,315386,25,0.57,0.0505,0.57,0.64,0.000504,0.599,-7.878,0.0723,129.292,4
+314,The Big Country - Alternate Version,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,301466,24,0.795,0.0867,0.795,0.463,6.02e-05,0.0772,-9.741,0.0341,122.172,4
+315,Thank You for Sending Me an Angel - Country Angel Version,More Songs About Buildings and Food (Deluxe Version),Talking Heads,1978-07-14,131906,23,0.621,0.15,0.621,0.796,0.000273,0.491,-8.131,0.0358,138.188,4
+316,"Uh-Oh, Love Comes to Town",Talking Heads '77,Talking Heads,1977-09-16,169160,31,0.708,0.332,0.708,0.393,0.000428,0.289,-13.875,0.0303,99.857,4
+317,New Feeling,Talking Heads '77,Talking Heads,1977-09-16,189266,27,0.775,0.00794,0.775,0.524,0.000166,0.0996,-16.357,0.0358,128.802,4
+318,Tentative Decisions,Talking Heads '77,Talking Heads,1977-09-16,188306,25,0.751,0.0744,0.751,0.38,1e-05,0.087,-16.257,0.0637,120.282,4
+319,Happy Day,Talking Heads '77,Talking Heads,1977-09-16,235333,25,0.764,0.292,0.764,0.304,3.89e-06,0.122,-17.337,0.0315,112.97,4
+320,Who Is It?,Talking Heads '77,Talking Heads,1977-09-16,104026,25,0.814,0.291,0.814,0.381,0.000108,0.183,-17.657,0.0791,120.567,4
+321,No Compassion,Talking Heads '77,Talking Heads,1977-09-16,290800,26,0.567,0.0664,0.567,0.52,0.000855,0.105,-13.321,0.0489,130.64,4
+322,The Book I Read,Talking Heads '77,Talking Heads,1977-09-16,250066,27,0.619,0.0702,0.619,0.422,1.39e-05,0.114,-15.985,0.037,125.411,4
+323,Don't Worry About the Government,Talking Heads '77,Talking Heads,1977-09-16,180400,30,0.851,0.0371,0.851,0.473,1.07e-06,0.129,-12.566,0.0377,120.737,4
+324,First Week / Last Week....Carefree,Talking Heads '77,Talking Heads,1977-09-16,201133,24,0.846,0.118,0.846,0.385,0.00139,0.182,-15.779,0.0438,127.019,4
+325,Psycho Killer,Talking Heads '77,Talking Heads,1977-09-16,260506,48,0.721,0.0586,0.721,0.401,0.00259,0.122,-12.139,0.0661,123.384,4
+326,Pulled Up,Talking Heads '77,Talking Heads,1977-09-16,268866,28,0.69,0.123,0.69,0.517,9.26e-06,0.176,-15.223,0.0444,140.226,4
+327,"Uh-Oh, Love Comes to Town - 2005 Remaster",Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,169466,46,0.704,0.418,0.704,0.659,0.000116,0.278,-5.154,0.0268,99.632,4
+328,New Feeling - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,189746,42,0.789,0.0147,0.789,0.83,6.01e-05,0.12,-5.642,0.0321,128.482,4
+329,Tentative Decisions - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,188733,37,0.748,0.0606,0.748,0.54,1.42e-05,0.0946,-10.111,0.0512,120.004,4
+330,Happy Day - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,235973,37,0.751,0.367,0.751,0.554,1.1e-05,0.115,-7.32,0.0271,112.635,4
+331,Who Is It? - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,104266,36,0.81,0.415,0.81,0.611,0.000205,0.271,-7.901,0.126,120.224,4
+332,No Compassion - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,289493,37,0.557,0.181,0.557,0.647,0.000997,0.246,-8.042,0.0488,130.687,4
+333,The Book I Read - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,250053,42,0.6,0.107,0.6,0.704,2.63e-05,0.151,-6.069,0.0373,125.065,4
+334,Don't Worry About the Government - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,182120,42,0.855,0.0244,0.855,0.575,1.64e-06,0.135,-8.68,0.0344,120.705,4
+335,First Week / Last Week....Carefree - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,201573,36,0.85,0.138,0.85,0.616,0.00813,0.16,-7.442,0.0345,126.706,4
+336,Psycho Killer - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,261413,74,0.721,0.0707,0.721,0.521,0.00552,0.127,-8.123,0.0612,123.118,4
+337,Pulled Up - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,271346,45,0.688,0.117,0.688,0.755,1.31e-05,0.231,-7.215,0.0422,139.853,4
+338,Love → Building on Fire - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,177826,39,0.717,0.0739,0.717,0.635,3.22e-06,0.173,-7.451,0.0535,129.352,4
+339,I Wish You Wouldn't Say That - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,157040,34,0.69,0.129,0.69,0.586,0.000141,0.382,-9.477,0.0331,129.738,4
+340,Psycho Killer - Acoustic,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,258053,51,0.63,0.0113,0.63,0.483,1.48e-05,0.167,-8.447,0.051,123.25,4
+341,I Feel It in My Heart - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,193453,34,0.69,0.553,0.69,0.637,3.86e-05,0.171,-7.838,0.0309,122.24,4
+342,Sugar on My Tongue - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,156480,53,0.609,0.118,0.609,0.802,0.000131,0.0904,-9.501,0.0538,127.672,4
